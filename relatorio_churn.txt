@@ -1,0 +1,22 @@
+Prezado(a) Proprietário(a),
+
+Segue um parecer executivo sobre o desempenho de Junho, focado na retenção de clientes e na prevenção de Churn.
+
+---
+
+**PARECER EXECUTIVO - ANÁLISE DE CHURN (MAIO vs JUNHO)**
+
+**1. Resumo Financeiro:**
+O faturamento de Junho foi de R$389, representando uma leve queda de R$7 (aproximadamente 1.77%) em relação a Maio (R$396). Embora o impacto financeiro direto pareça pequeno, a análise dos feedbacks indica uma fragilidade crescente na experiência do cliente que, se não endereçada, pode acelerar o churn nos próximos meses.
+
+**2. Causa-Raiz Principal do Abandono:**
+A principal causa-raiz identificada para o abandono e insatisfação dos clientes em Junho é a **qualidade do serviço de entrega e o suporte ao cliente para essas falhas.** Observamos múltiplos relatos de atrasos excessivos que resultam em pedidos frios, erros na montagem dos lanches, problemas com a conduta dos motoboys (grosseria, recusa em subir) e a falta de resposta eficaz no canal de WhatsApp para reclamações.
+
+**3. Ações Urgentes e de Baixo Custo (Esta Semana):**
+
+*   **1. Reunião e Treinamento Rápido com Equipe de Entrega:** Realize uma reunião emergencial (15-20 min) com todos os motoboys (próprios e/ou parceiros) para reforçar a importância da cordialidade, da integridade da embalagem, da entrega rápida e do atendimento adequado ao cliente (ex: subir até a portaria/apartamento quando solicitado). Reforce que pedidos frios ou incompletos são inaceitáveis.
+*   **2. Check-list de Pedidos e Protocolo de Atendimento no WhatsApp:** Implemente um check-list visual rápido para cada pedido antes da saída, garantindo que o lanche correto e todos os itens (refrigerante gelado, batata na quantidade certa) estejam na embalagem. Paralelamente, estabeleça um protocolo de resposta imediata no WhatsApp para reclamações de atraso ou erro, com poder de oferecer soluções rápidas (ex: cupom de desconto para próximo pedido, reenvio prioritário) para reverter a má experiência.
+
+---
+
+Estas ações, focadas em corrigir pontos críticos de contato com o cliente e com baixo custo de implementação, podem gerar um impacto positivo imediato na percepção da marca e na retenção de clientes.
